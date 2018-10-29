@@ -1,0 +1,12 @@
+com\fmi\projects\lucene\indexer\LuceneTester.class
+com\fmi\projects\lucene\indexer\Indexer.class
+com\fmi\projects\lucene\indexer\GUI.class
+com\fmi\projects\lucene\indexer\SpellCheck.class
+com\fmi\projects\lucene\indexer\LuceneConstants.class
+com\fmi\projects\lucene\indexer\TextFileFilter.class
+com\fmi\projects\lucene\indexer\MyAnalyzer.class
+com\fmi\projects\jsoup\web\crawler\BasicWebCrawler.class
+com\fmi\projects\lucene\indexer\ExtractFromFile.class
+com\fmi\projects\lucene\indexer\GUI$1$1.class
+com\fmi\projects\lucene\indexer\Searcher.class
+com\fmi\projects\lucene\indexer\GUI$1.class
